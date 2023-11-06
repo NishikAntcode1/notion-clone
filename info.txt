@@ -1,0 +1,4 @@
+npm i convex
+npx convex dev
+.env.local
+convex-provider
